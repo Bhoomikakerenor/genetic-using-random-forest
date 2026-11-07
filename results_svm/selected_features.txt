@@ -1,0 +1,23 @@
+data: REAL UCI
+model: svm
+hyperparameters: {'C': 2, 'gamma': 0.01, 'kernel': 'linear'}
+selected (19/41):
+age
+Fedu
+studytime
+failures
+famrel
+Walc
+absences
+G1
+G2
+sex_M
+famsize_LE3
+Fjob_health
+Fjob_other
+Fjob_teacher
+reason_home
+schoolsup_yes
+activities_yes
+nursery_yes
+internet_yes

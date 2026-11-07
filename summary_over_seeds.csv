@@ -1,0 +1,6 @@
+,accuracy,accuracy,f1,f1,n_features,n_features
+,mean,std,mean,std,mean,std
+method,,,,,,
+"Baseline (all feats, default)",0.899,0.016,0.922,0.012,41.0,0.0
+GA features + HP,0.899,0.025,0.923,0.018,13.0,3.464
+GA features only (default HP),0.894,0.017,0.918,0.012,13.0,3.464

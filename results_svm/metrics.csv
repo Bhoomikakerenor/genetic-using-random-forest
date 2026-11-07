@@ -1,0 +1,4 @@
+method,accuracy,f1,n_features,cv_f1_train
+"Baseline (all feats, default)",0.8081,0.8633,41,0.8978
+GA features only (default HP),0.8485,0.8855,19,0.9212
+GA features + HP,0.8889,0.912,19,0.9555
