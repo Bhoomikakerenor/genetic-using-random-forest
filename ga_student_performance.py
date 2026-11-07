@@ -4,7 +4,7 @@ Student Performance Prediction using a Genetic Algorithm
 Task      : Predict whether a student passes (final grade G3 >= 10).
 Dataset   : UCI Student Performance (student-mat.csv / student-por.csv).
 Model     : Random Forest  (or SVM with --model svm).
-Bio-algo  : Genetic Algorithm that jointly optimises'
+Bio-algo  : Genetic Algorithm that jointly optimises
               (1) feature subset  (binary genes)
               (2) model hyper-parameters (integer / categorical genes)
 
